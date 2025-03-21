@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ETD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\ETDEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\ETD.init.gen.cpp.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\ETDCharacter.gen.cpp.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\ETDGameMode.gen.cpp.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\ETDPlayerController.gen.cpp.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\ETD.cpp.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\ETDCharacter.cpp.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\ETDGameMode.cpp.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\ETDPlayerController.cpp.obj"
+"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\Default.rc2.res"
+/OUT:"C:\Users\a240071\Documents\Unreal Projects\ETD\ETD\Intermediate\Build\Win64\x64\UnrealEditor\Development\ETD\UnrealEditor-ETD.lib"

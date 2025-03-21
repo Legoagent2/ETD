@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\a240071\\documents\\unreal projects\\etd\\etd\\intermediate\\build\\win64\\unrealeditor\\inc\\etd\\uht\\etd.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\a240071\\documents\\unreal projects\\etd\\etd\\intermediate\\build\\win64\\x64\\etdeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\a240071\\documents\\unreal projects\\etd\\etd\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\etd\\definitions.etd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

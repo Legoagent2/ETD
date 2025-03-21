@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ETD",
+			"Path": "..\\Source\\ETD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ETDEditor",
+			"Path": "..\\Source\\ETDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
